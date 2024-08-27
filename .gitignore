@@ -446,3 +446,6 @@ install
 
 # Tools
 tools/ImageCropper/**/*.png
+assets/interface.json
+.gitignore
+assets/config/maa_option.json

@@ -1,0 +1,30 @@
+{
+    "adb": {
+        "adb_path": "E:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe",
+        "address": "127.0.0.1:16384",
+        "config": {
+            "extras": {
+                "mumu": {
+                    "enable": true,
+                    "index": 0,
+                    "path": "E:/Program Files/Netease/MuMuPlayer-12.0"
+                }
+            }
+        }
+    },
+    "controller": {
+        "name": "安卓端",
+        "type": "Adb"
+    },
+    "resource": "官服",
+    "task": [
+        {
+            "name": "进入",
+            "option": [
+            ]
+        }
+    ],
+    "win32": {
+        "_placeholder": 0
+    }
+}
